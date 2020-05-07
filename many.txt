@@ -1,0 +1,7 @@
+Configure -
+Configure the mail service on system1 and system2, as required:
+1. These systems do not accept external send mails
+2. Any mails sent locally are automatically routed to rhgls.domain11.example.com
+3. Mails sent from these systems will be displayed from rhgls.domain11.example.com 4. You can send mail to local user authur to test your configuration system rhgls.domain11.example.com
+5. Have already configured to transfer this users mails to the following URL rhgls.domain11.example.com/received_mail/11
+Hide Solution   Discussion
